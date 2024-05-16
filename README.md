@@ -28,10 +28,10 @@ Api Template
 
 ## ADD package.json
 
-1. **Configure Build**: Use {
-  "scripts": {
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "build": "yarn lint && tsc"
-  }
-}.
+1. **Configure Build**: Use {  
+  "scripts": {  
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",  
+    "build": "yarn lint && tsc"  
+  }  
+}.  
 
